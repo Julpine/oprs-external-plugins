@@ -25,8 +25,9 @@
 
 rootProject.name = "external plugins example"
 
-include(":kotlinexample")
-include(":javaexample")
+//include(":kotlinexample")
+//include(":javaexample")
+include(":clanpileindicators")
 
 for (project in rootProject.children) {
     project.apply {
