@@ -1,3 +1,3 @@
 # OpenOSRS-external-plugins
 
-Custom plugins for the OpenOSRS
+Custom plugins for the OpenOSRS v1
